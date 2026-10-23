@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "afpscan"
+version = "0.1.0"
+description = "Defect detection and quality assessment on laser line scans of automated fiber placement layups"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Teja Chirravuri", email = "tejagana@gmail.com" }]
+dependencies = ["numpy>=1.21", "scipy>=1.7", "scikit-learn>=1.0"]
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.5"]
+dl = ["torch>=2.0"]
+dev = ["pytest>=7", "matplotlib>=3.5"]
+
+[project.scripts]
+afpscan = "afpscan.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+filterwarnings = ["ignore::RuntimeWarning"]
