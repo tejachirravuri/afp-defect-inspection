@@ -1,0 +1,175 @@
+{
+ "file": "data/raw/test025_2023-04-05/OF_108_P_1_T_2_D_90_C_0_R_1528_000009.3d",
+ "sha1": "274e26a146a33432a4b31a86de0e149a0d6dc3a1",
+ "method": "baseline",
+ "meta": {
+  "program": 108,
+  "ply": 1,
+  "tape": 2,
+  "angle_deg": 90,
+  "course": 0,
+  "profiles": 1528,
+  "sequence": 9
+ },
+ "sensor": "C5_2040_GigE",
+ "recorded": "2026-10-23",
+ "programmed_length_mm": 200.0,
+ "programmed_width_mm": 50.800010561943054,
+ "max_speed": 0.5,
+ "edges": {
+  "add_mm": 163.7916,
+  "cut_mm": 363.562,
+  "length_mm": 200.022,
+  "width_mm": 50.8032,
+  "left_mm": 10.6272,
+  "right_mm": 61.300799999999995
+ },
+ "step_mm": 0.27972400188446045,
+ "noise_mm": 0.06093449890613556,
+ "tape_area_mm2": 10161.757670399998,
+ "q": 0.9533869208060582,
+ "summary": {
+  "gap": {
+   "count": 1,
+   "area_mm2": 460.6441747199999
+  },
+  "overlap": {
+   "count": 0,
+   "area_mm2": 0.0
+  },
+  "out_of_plane": {
+   "count": 0,
+   "area_mm2": 0.0
+  },
+  "foreign_object": {
+   "count": 3,
+   "area_mm2": 4.825889279999999
+  },
+  "no_data": {
+   "count": 3,
+   "area_mm2": 6.74972352
+  }
+ },
+ "defects": [
+  {
+   "class_id": 1,
+   "class": "gap",
+   "area_mm2": 460.644,
+   "length_mm": 196.0,
+   "width_mm": 2.98,
+   "max_height_mm": -0.463,
+   "x_mm": 36.28,
+   "y_mm": 263.41,
+   "tow": 5,
+   "bbox": [
+    659,
+    1437,
+    269,
+    291
+   ]
+  },
+  {
+   "class_id": 4,
+   "class": "foreign_object",
+   "area_mm2": 1.011,
+   "length_mm": 1.26,
+   "width_mm": 1.68,
+   "max_height_mm": 0.251,
+   "x_mm": 40.38,
+   "y_mm": 200.08,
+   "tow": 5,
+   "bbox": [
+    793,
+    797,
+    305,
+    317
+   ]
+  },
+  {
+   "class_id": 4,
+   "class": "foreign_object",
+   "area_mm2": 2.576,
+   "length_mm": 3.77,
+   "width_mm": 2.33,
+   "max_height_mm": 0.306,
+   "x_mm": 12.58,
+   "y_mm": 297.33,
+   "tow": 1,
+   "bbox": [
+    1174,
+    1188,
+    90,
+    107
+   ]
+  },
+  {
+   "class_id": 4,
+   "class": "foreign_object",
+   "area_mm2": 1.239,
+   "length_mm": 1.01,
+   "width_mm": 1.94,
+   "max_height_mm": 0.252,
+   "x_mm": 27.69,
+   "y_mm": 361.13,
+   "tow": 3,
+   "bbox": [
+    1434,
+    1437,
+    206,
+    220
+   ]
+  },
+  {
+   "class_id": 5,
+   "class": "no_data",
+   "area_mm2": 4.63,
+   "length_mm": 10.06,
+   "width_mm": 1.81,
+   "max_height_mm": 0.0,
+   "x_mm": 33.92,
+   "y_mm": 169.6,
+   "tow": 4,
+   "bbox": [
+    655,
+    694,
+    257,
+    270
+   ]
+  },
+  {
+   "class_id": 5,
+   "class": "no_data",
+   "area_mm2": 1.076,
+   "length_mm": 4.28,
+   "width_mm": 0.78,
+   "max_height_mm": 0.0,
+   "x_mm": 41.1,
+   "y_mm": 170.24,
+   "tow": 5,
+   "bbox": [
+    668,
+    684,
+    315,
+    320
+   ]
+  },
+  {
+   "class_id": 5,
+   "class": "no_data",
+   "area_mm2": 1.043,
+   "length_mm": 3.77,
+   "width_mm": 0.52,
+   "max_height_mm": 0.0,
+   "x_mm": 34.68,
+   "y_mm": 207.15,
+   "tow": 4,
+   "bbox": [
+    817,
+    831,
+    266,
+    269
+   ]
+  }
+ ],
+ "processing_s": 1.51
+}

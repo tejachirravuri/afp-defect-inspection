@@ -1,0 +1,107 @@
+{
+ "file": "data/raw/test025_2023-04-05/OF_108_P_1_T_2_D_90_C_0_R_1528_000009.3d",
+ "sha1": "274e26a146a33432a4b31a86de0e149a0d6dc3a1",
+ "method": "unet",
+ "meta": {
+  "program": 108,
+  "ply": 1,
+  "tape": 2,
+  "angle_deg": 90,
+  "course": 0,
+  "profiles": 1528,
+  "sequence": 9
+ },
+ "sensor": "C5_2040_GigE",
+ "recorded": "2026-10-23",
+ "programmed_length_mm": 200.0,
+ "programmed_width_mm": 50.800010561943054,
+ "max_speed": 0.5,
+ "edges": {
+  "add_mm": 163.7916,
+  "cut_mm": 363.562,
+  "length_mm": 200.022,
+  "width_mm": 50.8032,
+  "left_mm": 10.6272,
+  "right_mm": 61.300799999999995
+ },
+ "step_mm": 0.27972400188446045,
+ "noise_mm": 0.06093449890613556,
+ "tape_area_mm2": 10161.757670399998,
+ "q": 0.9526344500064177,
+ "summary": {
+  "gap": {
+   "count": 1,
+   "area_mm2": 478.54561535999994
+  },
+  "overlap": {
+   "count": 0,
+   "area_mm2": 0.0
+  },
+  "out_of_plane": {
+   "count": 0,
+   "area_mm2": 0.0
+  },
+  "foreign_object": {
+   "count": 0,
+   "area_mm2": 0.0
+  },
+  "no_data": {
+   "count": 2,
+   "area_mm2": 5.543251199999999
+  }
+ },
+ "defects": [
+  {
+   "class_id": 1,
+   "class": "gap",
+   "area_mm2": 478.546,
+   "length_mm": 196.0,
+   "width_mm": 2.85,
+   "max_height_mm": -0.463,
+   "x_mm": 36.28,
+   "y_mm": 263.81,
+   "tow": 5,
+   "bbox": [
+    659,
+    1437,
+    269,
+    290
+   ]
+  },
+  {
+   "class_id": 5,
+   "class": "no_data",
+   "area_mm2": 4.5,
+   "length_mm": 6.79,
+   "width_mm": 1.56,
+   "max_height_mm": 0.0,
+   "x_mm": 33.81,
+   "y_mm": 169.15,
+   "tow": 4,
+   "bbox": [
+    657,
+    683,
+    257,
+    268
+   ]
+  },
+  {
+   "class_id": 5,
+   "class": "no_data",
+   "area_mm2": 1.043,
+   "length_mm": 3.77,
+   "width_mm": 0.65,
+   "max_height_mm": 0.0,
+   "x_mm": 41.1,
+   "y_mm": 170.58,
+   "tow": 5,
+   "bbox": [
+    669,
+    683,
+    315,
+    319
+   ]
+  }
+ ],
+ "processing_s": 2.4
+}
