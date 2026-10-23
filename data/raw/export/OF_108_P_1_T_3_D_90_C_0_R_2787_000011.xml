@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<CReducedProgram xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plys>
+    <CReducedPly NumPly="1">
+      <Tapes>
+        <CReducedTape IP="1" NumTape="1" MaxSegCount="1" MaxSpeed="0.5" Length="700.649">
+          <Fibers>
+            <CReducedFiber Length="504" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGMUYGJgEC6o27e/6dNeBhTQYN/40GYf957LGOL3Lt/auyZ0N4a4gfWqvbzbtiOLN4DENW37rDdWrscQP8h6w7YuaDeGuPt3O7sLG69gmO94PsZuldwjDPGfiXV25u2fiRZnZGiwc+d8TrT4HwEnO2OrkxjuTPm61nb3j5UY6l89z7fdlrQcQ/3fRfV7SlYswlC/xNJyr+OjpRjq+cPe7ZXbtQEzPJ9F7LPzvoRhzr//9fsUJZ4RLY4r3gGTp+MaFQIAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="623.558" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGP8wcjAoBVRt6/J8eleBhTQYM+703Ff/qYTyOINIPEzPEf3tiuvwRBft3SX1SedRRji20ou2Zo2r8UQX+kQbqf07yKGvYeC6+xkdJ4RLc7I0GB3y+Em0eJe0k5281h2Y7in8+Va2ysf52Co3+cZZVvVNBND/ZKQ5j1vVk3FUN/2yHOv098ZGOp1Dnzee4tvCYZ6JlHBfVwdqzHUl/+J3pfJegxD/Pf/+n0ZkTcwzMEljit+AdT8r4j9AQAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="111.671" CutPathPosition="622.59" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPUYGJgsAmo2ydafn0vAwposO+Y4bnv3Yu9yOINIPG4zFN7JWPmY4grHAjaras1FcMc9ZQOm7L8aRjqH+46ZbskfD6GeunCN7bpTksw1EeaBtkdf3wQQ5wnsM6OKf4Ghjm4xBkZGuzeqp7GMAeX+GphK7uX21ZhiCu+X237c3s/hvnbLBxtRSd3Y6h//XjaHoUDHRjq/9gm7mX378FQv4Hr614nmekY6luuiO471o4Z/i8bYvfNcd2JIf7vf/0+49WniBbHlR4AYEZ/OS0CAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="113.308" CutPathPosition="621.509" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGOMYGJgMEir29dx5+ReBgRoACL7ratd9x3xXo8hvkbzyt4qt8nI4iApe0mWJXsvbevHUH+l23bPyuoODPU183tsJIM6Mc0/tMOW78gEDPVR917bxryahqF+228/O+EXmzDE2wvq7GISThEtzsjQYHfhwF6ixeeIWNmJ+s7FcKdQu5zdp+9TMNSnuK62/TitCUO9xGQtW63sagz1SWXL90gtL8dQn7s8f6/vxjpMd175uddsaheG+o33pPeF/JqMof5FZfw+9+lrMMR//a/fV2eO6V9c4rjSDwDI22MtXQIAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="115.056" CutPathPosition="620.488" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPsYGJg2F9Yt+9N9p69DAjQAET2Xmvc9z2YvwhDPKzr6d5+sw5kcZCU/aG/8/c+1m7CUL9x/uw9Al3lGOrl98y2+VFfgaG+494K2+TUJgz1R5a9s/3O0oWhfpWmh13K2kUY6h3+xNuJvFuLob6mu85uE8deosUZGRrsLJM3Ei0uLm1vdyBqEoZ7blwTtPMLbsFQ7+OxxrZzXzaGei5LRtvD0gkY6vOP9+55fScWQ/1tns69HrzpGOpTFnze+1ysCkO9oqjKPsXuTgz1XPsS9nl+nY+hfrFK1T4Dd8zw/Pu/fl9QygaixXGlNwDQ2ipDjQIAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="116.53" CutPathPosition="619.456" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="503" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPsYGJgSA+s25dWv34vAwI0AJH9mwk++2aLTccQv/ft5V7HXeXI4iAp+zP8S/Yuv52Fod4kfN8emeo4DPXnvPptbvrGYaj3ObfItiImC0P9pK43tlaBlZjmr3G340mZiqGeuzXKTtlyHob6a+F1dmFdG4gWZ2RosNNrWEy0+EM2B7viFa0Y7rlmyGjHY5GKob6fY6PtxBVBGOq5hJbZPFzugqF+2vWmPYt5XDDU1xyfudc6wh8zfAo+7jU8E4/pniva+/pe1GKo/54av4/bfRKG+nf76vcxbVmEof7X//p9HdeIF8eV3gBny8jJjQIAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="118.192" CutPathPosition="618.338" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="503" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPsYGJgyA+q29f3aeFeBgRoACL7c1X++2z1u5HFQVL2J79a7uNf34yhXrHv494Dl+Mx1O/hXbGXJyYQU73jtT3P/V0x1H/e0WzzVM4FQ7318zm2Dz75Y6jvWPfKNnhlHIb6Hg93uwjpDgz1Xp5RdjM3TsBQn5JaZ5e1eRHR4owMDXau+6YSLX7vh73dfIlCDPfcDn1m+zPAGUN9L9MmW8t3FhjqZY6q2DBFaWKo/59Sv8fdUQtD/UTxNXub75pjqPdRfb93TgJm+CetNd5XeToDQz3D5bh9R5+1YKj/+79+3zJvTP/iEseV3gDSazapjQIAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="119.72" CutPathPosition="617.232" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="503" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPsYGJg8Aqu21eRMWUvAwI0AJH9htjgfRYt9cjiICn7W6JW+5zEcjHUT5r/Y2/kFXcM9T87VuzdGWOOoX7l5e97FvrqYKhfYNlkkyiuhaE+4PYM24uHTTHUd/U+t522zBlDffFyN7t5xaUY6ic/i7STUWzGUD+jtM5u8l/McMAlzsjQYCcc00G0eMdXe7vzl8Iw3FMccdH2b6Eyhvp7hptsp3LLY6gPuMdnzR3Dh6GeKaRwz4YQAQz1587u3TvLTwFDPYPgu71VJtoY6heet9w3oSMIQ32FU/w+o9f5GOqB/t0Xd7gdWzhgFceV3gCxa7FLjQIAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="121.231" CutPathPosition="616.128" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="361.3169" Y="-121.693214" Z="0" Rx="0" Ry="0" Rz="163.9331" />
+            <CTarget Index="2" CurveAxis="82.645" X="281.4981" Y="-100.265854" Z="0" Rx="0" Ry="0" Rz="164.7646" />
+            <CTarget Index="3" CurveAxis="126.21" X="239.361343" Y="-89.21445" Z="0" Rx="0" Ry="0" Rz="166.1289" />
+            <CTarget Index="4" CurveAxis="165.518" X="201.02037" Y="-80.58495" Z="0" Rx="0" Ry="0" Rz="168.4159" />
+            <CTarget Index="5" CurveAxis="204.683" X="162.5119" Y="-73.4867859" Z="0" Rx="0" Ry="0" Rz="170.6364" />
+            <CTarget Index="6" CurveAxis="244.636" X="122.987274" Y="-67.69558" Z="0" Rx="0" Ry="0" Rz="172.9373" />
+            <CTarget Index="7" CurveAxis="284.784" X="83.051796" Y="-63.6478767" Z="0" Rx="0" Ry="0" Rz="175.2323" />
+            <CTarget Index="8" CurveAxis="324.707" X="43.2184372" Y="-61.09509" Z="0" Rx="0" Ry="0" Rz="177.5252" />
+            <CTarget Index="9" CurveAxis="364.763" X="3.181494" Y="-60.1742744" Z="0" Rx="0" Ry="0" Rz="179.8165" />
+            <CTarget Index="10" CurveAxis="404.721" X="-36.76321" Y="-60.8593521" Z="0" Rx="0" Ry="0" Rz="-177.8939" />
+            <CTarget Index="11" CurveAxis="444.622" X="-76.5959" Y="-63.0573845" Z="0" Rx="0" Ry="0" Rz="-175.6045" />
+            <CTarget Index="12" CurveAxis="484.71" X="-116.481606" Y="-67.00334" Z="0" Rx="0" Ry="0" Rz="-173.3116" />
+            <CTarget Index="13" CurveAxis="524.623" X="-156.021667" Y="-72.3893661" Z="0" Rx="0" Ry="0" Rz="-171.0236" />
+            <CTarget Index="14" CurveAxis="564.891" X="-195.646317" Y="-79.51139" Z="0" Rx="0" Ry="0" Rz="-168.6928" />
+            <CTarget Index="15" CurveAxis="604.526" X="-234.348633" Y="-88.02539" Z="0" Rx="0" Ry="0" Rz="-166.5518" />
+            <CTarget Index="16" CurveAxis="650.486" X="-278.943726" Y="-99.1335449" Z="0" Rx="0" Ry="0" Rz="-165.2649" />
+            <CTarget Index="17" CurveAxis="700.649" X="-327.586151" Y="-111.391228" Z="0" Rx="0" Ry="0" Rz="-164.554" />
+          </Targets>
+          <DataContour>H4sIAAAAAAAEAGOcwcLAIFxQt29/06e9DCigwX5Jmu2+7BeXMcR1M27tlfDcjSG+VGb13v+HtiOLN4DEfx1qsv5esB5D/OWCG7Y2GbsxxLkk7O3i913BMH/1nRi7eaqPMMR/JtbZmbd/xhBnZGiwc+d8jiF+KLjOTkbnGVb1txxuYojzBNbZMcXfwKr+reppDPe3F9TZxSScwhAHqb9wYC+GeE13nd0mDkxxkHrL5I0Y4tfC6+zCujZgVa/XsBhDPCW1zi5r8yKs6l33TcUQn1FaZzf57xSs6oVjOjDERU7Z25ltD8MIHw6nC7aWasoY6hMCN9mG8MtjqHfQkrCemcCHof6ZTtkeqwQBDPUHf+/Ze9lAAUO9X+e7vcYh2hjqfxhY7nOSC8JQ/+J63D6m7nxs8bsv7nA7hnqP4Lp95RmY4fP3f/2+Zd6Y4VkQVLev79NCzHwBVN9xDTNeUgPr9qXWY+YXkPlBKZjxvr+wbt+b7D1Yza8zx0xXhml1+zrunMQQ/wdUb7waM93aBNTtEy2/jhE+v4HqMyIx84VWRN2+JsenGOIg8xUlMPMdrvIHANiITeCdBAAA</DataContour>
+          <CenterLine>H4sIAAAAAAAEAGPkYGRgWDizyW73xX17GRCgAYjsWWWi7RyyV2GIOwUq24npTsUQf7b8ku3Lq60Y4kqy9rYrUqswxGv8tfac1i1DFgdJ2fd9aN9753sdhvq8Tb/3dtd3Yag3dTPf95R7DoZ6eef8fX+XbcYQ/1nTtG/6DEz/AgC7KgtrDQEAAA==</CenterLine>
+        </CReducedTape>
+        <CReducedTape IP="2" NumTape="2" MaxSegCount="1" MaxSpeed="0.5" Length="701.31">
+          <Fibers>
+            <CReducedFiber Length="504" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGP8wcjAwO1Wt0/Bx2AfAwI0AJH986Ue+7R2KGGIW9g/3/u2XwRZHCRlryK8eW/FBkEM9Rt4ovc8L+PFUP+uXssmLYIXQ/2ul5dtq1SFMcT/p/nbfW9SwRBfFVlnZ7AD0/24xBkZGuyy47SIFj/G42Bn9UYKw/3ciUdt353hxhBnnX1w97FpbBjip5ov7vWK4sEQf6HpvO8eqzSGvXe4ovfZRCtgqAe6c9+fn5rY3I9VHFf8AgC1U7Fb/QEAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="624.306" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGP8wcjAkOJUt29jveY+BgRoACL7+lle+6pjZDDEj2z4sTfKhx9ZHCRlrzFx495GTm4M9QKJ+/fsK2THUB/BpWSz9xQbhnr90Iu2ExN5MMT5/vnZdW2WxRBvjKyzM/uI6X5c4owMDXY3upSJFt/M5mC30EEEw/26oUdtqx1YMcT/bjm420uEAUOcvfDyXs43mOprnrvuKzorgmGv2dHofTZXJTHUA92574EWVvdjFccVvwC1NS89/QEAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="111.702" CutPathPosition="623.133" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPUYGJg4Ler21e2TmkfAwI0AJH9lnbffS+sxZDFQVL23BW2+764CWOq38G0L3MdJ4b6LvmNe19msGCoX2DGtbeykBFDfcJUA5tYHwYM9VGzztlOncOKIX6WzdvOUxnTnaw1kXbf1ktiqH8UVWcnLq9MtDgjQ4Pdp9UyRIvH/bO3q5vCi+GeeU2HbQv9/u5FF1926+rux0afMcRXaFzZ++fMPwzxbbu99kV958Owtyg9et9kDmEMe//9r9+3LgzTnbjEcaUHADE+VnAtAgAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="113.392" CutPathPosition="621.653" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN0YGJgWBRct8/wvvQ+BgRoACJ7r4LgfeasgsjiICl7hWu2+5Tn8WCoP/eNc992QxYM9dyXN+49Nvv3XnT1MRvN9l54+20vuvrDywxtOmo+Y6gval9g6+3yG0O95IxHthoTGDDc88bBwu6rMw+Ge+a4R9p5PBfCUO8UXGd3wl6GaHFGhga7gluiGObjEle/H2BXIsKFYY7oTTu76h1sGOpFDI7a/gn4gOHfz/du7LYzeIYh7mp/Ze+JlR8xxLPFfffN2MqBYf7f//X7Tk3GdCcucVzpBAAi5kaiRQIAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="115.098" CutPathPosition="620.84" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGMUYGJgqMir2+ejJ7qPAQU02Kc9sN239QkrsngDSNz5pcA+rZC/e9HVV2et22v6++1edPUmdWl79fheY6jf4eVuYxP9DEO91JtIWwZTTPWOf57Y/tH+gqH+1GoFu2kLGTHcX8QZZecewYPh/j2RdXZr0jH9i0uckaHB7qYvP9HiNt+87BbrMGGIX1Q4aHtG+DGGv8xdmPd8SLqJIR5y+ebeptqnGOL8Ov77Ti/CNP/P//p9G3/yES2OK94BL6+x5RUCAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="116.694" CutPathPosition="619.781" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAUJdXt896Ct8+BhTQYM/y0Hbf80n/9iILgsQ/RInsu1/wcS+6emeDjXsFUh9iiH+wMLWx7byJIX5lz1PbeWrPMcw3+yJq53vgE4b60n+RdkxbWPehq18QU2f38y6m+3GJMzI02OVs4SBavOG7h11CyzcM91ha7LHt2XcVQzy26/xuPvkzGP6KvnJ176o71zHUp6cG7is3+Ikh/u9//b7qeEz34BLHFY8A+y++veUBAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="118.322" CutPathPosition="618.809" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAkJRXt+/3T/Z9DCigwV70ke2+nZEf9yILgsTnOEvv2zH72V509QoMW/dufn0FQ7yyTN6G0/8Mhjk8TA228U6XMNTL+D22nfb9JoZ4UVuUnW3UPwxzfsXV2fW7cWC4H5c4I0OD3UFhJqLFp353t9v45wWGezxvHLS9InQSwz0Bc7T3cPbtxxAXzn+2N+bzGQxz1uUE74tkeIshDsT7fh1hxHAPLnFc8QgAJSW8XeUBAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="119.931" CutPathPosition="617.82" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wcjAoJFXty8lnnEfAwposGd+YLsv0PXJXnRxTtW9eytnnUAWbwCJ33zGZmPQsR9DvMbnme2Tf2cwzHFnjrGbPecjhvpPiXV2S5djugeXOCNDg92Tp98wzMclfvaHm11t7m0McT/m07ZyPXswxKuOH97tproJQ5xPcNXe7a27MNwv+eLZ3vK7mOHweK7fviWRdzHM+f2/fp9SCKY7cYnjii8Ag0UoG80BAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="121.526" CutPathPosition="616.708" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="361.006439" Y="-176.510178" Z="0" Rx="0" Ry="0" Rz="163.6973" />
+            <CTarget Index="2" CurveAxis="79.672" X="284.122925" Y="-155.614929" Z="0" Rx="0" Ry="0" Rz="164.6325" />
+            <CTarget Index="3" CurveAxis="123.936" X="241.350555" Y="-144.231949" Z="0" Rx="0" Ry="0" Rz="165.8039" />
+            <CTarget Index="4" CurveAxis="162.765" X="203.6614" Y="-134.91951" Z="0" Rx="0" Ry="0" Rz="167.9078" />
+            <CTarget Index="5" CurveAxis="201.698" X="165.3594" Y="-128.018768" Z="0" Rx="0" Ry="0" Rz="169.9789" />
+            <CTarget Index="6" CurveAxis="238.34" X="129.20784" Y="-122.056664" Z="0" Rx="0" Ry="0" Rz="171.795" />
+            <CTarget Index="7" CurveAxis="275.146" X="92.76071" Y="-117.137985" Z="0" Rx="0" Ry="0" Rz="174.5508" />
+            <CTarget Index="8" CurveAxis="309.922" X="58.04271" Y="-115.127419" Z="0" Rx="0" Ry="0" Rz="176.6842" />
+            <CTarget Index="9" CurveAxis="347.109" X="20.9119282" Y="-113.117943" Z="0" Rx="0" Ry="0" Rz="178.3178" />
+            <CTarget Index="10" CurveAxis="384.397" X="-16.330595" Y="-112.861526" Z="0" Rx="0" Ry="0" Rz="-178.9019" />
+            <CTarget Index="11" CurveAxis="419.25" X="-51.14319" Y="-114.527641" Z="0" Rx="0" Ry="0" Rz="-176.9947" />
+            <CTarget Index="12" CurveAxis="453.995" X="-85.83551" Y="-116.395439" Z="0" Rx="0" Ry="0" Rz="-175.1187" />
+            <CTarget Index="13" CurveAxis="488.744" X="-120.314247" Y="-120.5076" Z="0" Rx="0" Ry="0" Rz="-172.5028" />
+            <CTarget Index="14" CurveAxis="525.322" X="-156.480545" Y="-125.979462" Z="0" Rx="0" Ry="0" Rz="-170.8414" />
+            <CTarget Index="15" CurveAxis="561.162" X="-191.792816" Y="-132.044464" Z="0" Rx="0" Ry="0" Rz="-168.6978" />
+            <CTarget Index="16" CurveAxis="596.959" X="-226.640259" Y="-140.167038" Z="0" Rx="0" Ry="0" Rz="-166.2212" />
+            <CTarget Index="17" CurveAxis="635.173" X="-263.605927" Y="-149.842834" Z="0" Rx="0" Ry="0" Rz="-164.3978" />
+            <CTarget Index="18" CurveAxis="684.908" X="-311.4827" Y="-163.3101" Z="0" Rx="0" Ry="0" Rz="-162.8981" />
+            <CTarget Index="19" CurveAxis="701.31" X="-327.269623" Y="-167.759872" Z="0" Rx="0" Ry="0" Rz="-162.7797" />
+          </Targets>
+          <DataContour>H4sIAAAAAAAEAGMMYGFgYGRosHvy9NteBhTQYD95h5vd5fDbGOJFb07a/qjegyEe+WTz7rdSmzDEXRg2773CuBtZvAEk3ijwfG/X4/0Y4h9y/fYlO97FMOf3//p9SiGY7tTIq9uXEs+4D10ciPf9OoIpngxU//snO4b4P6D51fEcGOINQPXWU/gwxP8A1W/8iSleCVTvqyeKIf4XqP7UZEzxBcF1+wzvSyOLN8Dcsy5MBkNc0K5uX/k6JQxxYDzue6CljCGe4lS3b2O9Jlb1f35iinO71e1T8DHAEDec7LHvwhZMe19tf76XYaYIhr/sxDbvnbJBEEO9hL3nHtdMXgz1i6X1bPyieTHUR3NctZ1iI4whviPW366vQQVDfFVknZ3BDkz3g9J5dpwWhngjUL3ZR6zhY3ejCzM8H0XV2YnLY4qD1H9ajRlfTsF1difsMcVB6gtuYaaHPUD3rEnHFAepv+nLj5l+Yursft7FTIcg9TlbMNPzr7g6u343THGQ+oPCTBjinxLr7JYux8xHuMoNAHapZCBVBAAA</DataContour>
+          <CenterLine>H4sIAAAAAAAEAGM8wMDAMKumya7cRHwfAwposP/1PMBusRgXsngDSPzCNHu76htsGOpF1I/YLnH8sBddPCD+8m4OnWcY4g8dr+zVWfURQ1yszXffxIscGOZrzGral/5ZDMM9ANblrN3FAAAA</CenterLine>
+        </CReducedTape>
+        <CReducedTape IP="3" NumTape="3" MaxSegCount="1" MaxSpeed="0.5" Length="701.801">
+          <Fibers>
+            <CReducedFiber Length="505" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGP8wcjAUB1ct2/vjPR9DCigwX7pK+t9j76EYYhvWXxk70FND2TxBpB4+bEX1nu7nDDEVzfftr02xRNDfMpyD7utDFEY5tvqRNt9L4zDUC8WVWd3di2mO3GJMzI02E3PTCRavErM1m7b8wAM8Wu6nHan+t0x3BNyaott32kHDPEjl0X2bOa1wTDHSXT+3rBUTPXSkx7vtZzhjCFu/iRwHydnKDb37zsUiNVfWMVxxS8AEHVvbv0BAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="624.888" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="505" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGMUYGJgYAyp27f7fsI+BhTQYH/8qc2+wy0BGOIpFUf2bpniiCzeABL3zbtibf/XGkO8+cQt29lvnTDEc7o87P4ZBWOYL1IUZ8c0PwJDvC+6zi7vN6Y7cYkzMjTYiWyNIlo8i9/eTuGQF4Y7v0/Ybnsr0wpDvRPbBZuYCWYY6gsNpfZ49ZtiqG9SWr/3ZJAVhvrymid7H/HYYqgPuiO3T/2yC4b6cwnh+0pO+mOoZ2Jo2LdhBqa/cInjincASyx9HhUCAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="111.677" CutPathPosition="623.69" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="505" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGP8wcjAIOlbt++rStQ+BhTQYG9w0mFfz1kvZPEGkHjkv4N7972xwhC3n7TWuiLdFEO8JfCmbY+XDYZ4xLcwuyd//THsfR5eZxfmhukeXOKMDA12jR+CiRYXlrSz413jjOEe9T3bbeUeG2Oor5CTslktp4+hfj2D6h5GUX0M9XPPbd/LymqCGQ7fHu8NzjfDUH9ATXnfv8d2GOoDn0Tuy5nviSHOzNCwT+Ikpr9wieOKXwAeGz+Y/QEAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="113.347" CutPathPosition="622.572" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGMUYGJguG9St++zT/A+BhTQYL90qcu+0EsuyOINIPHbs47stc8zwRCXFeq3Pn9VD0N8huoN24kzTTHEsxOD7Z4GeGCI+3rV2enVYroHlzgjQ4NdKocv0eKJ7O52JsvtMMR1GTXt4iQsMdzz8/52W75IXQz1DVP3WS3R0MBQ3+AmvUekWwNDfcqWfXuLV+piqBc782Sv6Rt9DPU5t9X3XWXEdM+qrZH7Ll5zwhB//rN+35kzPsSIg83HFe8A6nX96xUCAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="115.056" CutPathPosition="621.321" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="505" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAUJ9Vt+9qis8+BgRoACL71HMO+0rzbDHEVZyP7039oIshLteabM3pqoEhnq193dbtjR6G+JVjfna3ch0wxKWK6uxk52O6B5c4I0ODnfJkN6LFN8pb28ntMUUWB0nZ9xqI2lU46GOoX9Szw7booRqG+qn/JXYf2a6IIX5M/+xe6eXqGOJsDPr7Fq81xjB/3dTofYXzbTDUA/G+/FhM9+MSxxWPALr6W13lAQAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="116.633" CutPathPosition="620.291" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAcMG/bl/HS9d9DAjQAET2T7e77NvdYY4hrvv75F7pDnUM8XPhgdZMxxQxxOeevma7IE4DQ1xxq5/d00OWGOLH4+rs1qm5ES3OyNBgl/7AnmhxPVFbu70L9ZHFQVL2UqtZ7VJV1DDUhy3fbtsTpYChfsHriN0xXtIY4uYhF/beTlHEEI+abrKvT0gPw/wVT2P27fQ3w1APxPv2zMN0Py5xXPEIALzC9QblAQAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="118.283" CutPathPosition="619.119" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAcNyvbl+wlv0+BgRoACL7aavd9jF4GmKIM/me3usvrIghfv2MkfUHZ2kM8enm12w7z2CqPzzPz85BxBhD/Fd8nd3UEkz34BJnZGiwk9GzJFo8lt/eLjJfE1kcJGX/mOWpbWylDKZ/hXfYWt2VxFDP8HvS7kX3RTDEL266vPeemjSG+Lpam31yDzQwzE8Nitn3tUcfQ/3f//X7uO9bYKjHJY4rHgGQMZ7/5QEAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="119.913" CutPathPosition="617.952" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="504" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAMM23bh9PlsU+BgRoACL7+/M89nlxaGOI/3t7ca8UizSyOEjKfubGrXtn3JHEUG86Q8ja7KAIhrjrnKu2Gy2lMcQF2/3s/FN1MMTlEuvsnh3CdCcucUaGBjvbGiOixeN47e0qriph+Mtp3hnbn3+EMcQFuubsPprBhyGu9OvqXpXLIhjijxhd9l2erYxh7876mH2NvzQw1P/7X79PQQ7TnbjEccUjAJgxApzlAQAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="121.533" CutPathPosition="616.783" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="361.028168" Y="-230.402252" Z="0" Rx="0" Ry="0" Rz="163.7439" />
+            <CTarget Index="2" CurveAxis="71.123" X="292.395081" Y="-211.749344" Z="0" Rx="0" Ry="0" Rz="164.4795" />
+            <CTarget Index="3" CurveAxis="129.143" X="236.330078" Y="-196.820145" Z="0" Rx="0" Ry="0" Rz="165.6079" />
+            <CTarget Index="4" CurveAxis="167.93" X="198.73085" Y="-187.308731" Z="0" Rx="0" Ry="0" Rz="167.2551" />
+            <CTarget Index="5" CurveAxis="206.899" X="160.474762" Y="-180.000351" Z="0" Rx="0" Ry="0" Rz="169.8152" />
+            <CTarget Index="6" CurveAxis="243.847" X="124.020454" Y="-173.98526" Z="0" Rx="0" Ry="0" Rz="171.9251" />
+            <CTarget Index="7" CurveAxis="278.419" X="89.79884" Y="-169.33461" Z="0" Rx="0" Ry="0" Rz="174.1092" />
+            <CTarget Index="8" CurveAxis="313.03" X="55.2567825" Y="-167.1688" Z="0" Rx="0" Ry="0" Rz="176.6199" />
+            <CTarget Index="9" CurveAxis="351.593" X="16.7527447" Y="-165.143356" Z="0" Rx="0" Ry="0" Rz="178.8328" />
+            <CTarget Index="10" CurveAxis="389.031" X="-20.6304417" Y="-165.238358" Z="0" Rx="0" Ry="0" Rz="-178.4467" />
+            <CTarget Index="11" CurveAxis="426.24" X="-57.7792778" Y="-167.318359" Z="0" Rx="0" Ry="0" Rz="-176.5391" />
+            <CTarget Index="12" CurveAxis="459.867" X="-91.32742" Y="-169.573853" Z="0" Rx="0" Ry="0" Rz="-174.3835" />
+            <CTarget Index="13" CurveAxis="493.565" X="-124.710388" Y="-173.934082" Z="0" Rx="0" Ry="0" Rz="-171.7735" />
+            <CTarget Index="14" CurveAxis="528.903" X="-159.5406" Y="-179.8939" Z="0" Rx="0" Ry="0" Rz="-169.5543" />
+            <CTarget Index="15" CurveAxis="572.306" X="-202.232635" Y="-187.676025" Z="0" Rx="0" Ry="0" Rz="-167.6064" />
+            <CTarget Index="16" CurveAxis="613.177" X="-241.800766" Y="-197.9058" Z="0" Rx="0" Ry="0" Rz="-165.3306" />
+            <CTarget Index="17" CurveAxis="657.251" X="-284.2742" Y="-209.667358" Z="0" Rx="0" Ry="0" Rz="-163.5811" />
+            <CTarget Index="18" CurveAxis="701.801" X="-327.154144" Y="-221.75383" Z="0" Rx="0" Ry="0" Rz="-162.745" />
+          </Targets>
+          <DataContour>H4sIAAAAAAAEAGO0YGFgYGRosLOtMdrHgAANQGTPwONg94dJGVkcJGUft/mcbaKqCIb6SN3ttpNDhDHUb6pcs7ssnw9D3GDd1b2eZ0UwxP2OOu/jmaiMYX5uWOy+Xj1NDPX//tfvU5DDdP8M37p9PFkWGOJ/geq572OKH/Or2xekZY8ZDgwN+/bMwxQ/61+3r/2lK1b1+bFuGOI1WXX7rqT4YIg//1m/78wZHwx/3TOp2/fZJxhDnBlovsRJTHEpoH+/qkRhiDMB1W+YgSnOEFK3b/f9BAxxYHrYdygwEUO8Orhu394Z6RjiD+tt9nnyh2OIb1lzdK+MkQeGfw/uv2s9s9UJQ/xcxy3bRfWeGOJ9nR52Br8jMcwXi6qzO7sW0z2g9Dw9E9P9fdF1dnm/sfrXTmQrZvg8D6+zC3PDFAepb/yAGf6+XnV2erWY4iD1qRy+mPFVVGcnOx8zPYDUK0/GTD/H4+rs1qlhioPUpz/ATJ+/4uvsppZgioPUy+hZYojLJdbZPTuEmS9wlQ8AuB32jT0EAAA=</DataContour>
+          <CenterLine>H4sIAAAAAAAEAGPkYGRgKK5vsvuR7LePAQU02LM/drMzmW+HIX6rVcPuI7MlsngDSLz2xjZbjgBdDPUNxorWp800MNRnX5bfM6FPA0O9x45De/ee0sVQH5PwZK/0E30M9YUJ6vvY3lhgqNczi9rn+sMJQ5y9u2lfmy2mfwFW0Gf5DQEAAA==</CenterLine>
+        </CReducedTape>
+        <CReducedTape IP="4" NumTape="4" MaxSegCount="1" MaxSpeed="0.5" Length="685.506">
+          <Fibers>
+            <CReducedFiber Length="220" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPMYGRg2GT2YO////X7GFBAg71+7ra97OW1yOINIHGfVVx7Lnwsx1Df+YrFxu1rOYZ6O4Vrtr/l6jHEvbbet0WzF6+4Hccj2965lUSLr1m007aFHdOd9ZfX7va1K8QQ1xa6sPcZewWGuGzqo73fp1USLY4rPAGpw6LkbQEAAA==</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="246.046" CutPathPosition="471.927" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="295" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGPMYGRgmHRfbN////X7GFBAgz3zpy17f50uQxZvAIkX8FfvuXWtEEP92rvcNpfLCjHU98Rds13RV4EhbmcsYodmL17xy+midll9lRj24hJnKTpmq/O8AEO88OSB3RsOZ2GIc7+8sHdxI6a/Tn0T3/dwGqb5uMRxhScAD5SlVm0BAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="211.17" CutPathPosition="510.318" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="363" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGNsYGRgCOCw3MfA0ADEcNAARPZmG7/sfdBTgiwOkrJ3mbxl726tAgz1BXkX9rS+zcZQ32jFZqPzOgtD/e4lV2xXXizEEI+eY2b37389hjm4xI/cNLfbM6GSaPHspGO2RWFZGOJPSg/tZnVMwRCPr720t5ob019LQq32MbZUYrgflziucAYAKNYBr4UBAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="177.937" CutPathPosition="543.89" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="425" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAEOgYvo+BoQGIkUGD/Z5LNvskWKqQxRtA4j8KGfelauZjqHf33Lp36qRMDPVqYXx7V35PxVC/7Runze+0FAz1Kmcu2nL8zcIQ717paLe1uBrDnJzfoXb//tdjqMclnrkg3C5heyXR4pdP2dqJs5Zg2LuI/Zgt/5FkDPF8jQu7/x2OxRBve3V5L/ukFAzxb3be+67ol2HY++x1xD5GVPcw4BPHFY8AFBfxgeUBAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="147.418" CutPathPosition="574.056" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="476" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGMUYGJg2LSgYB8DQwMQI4MGezEum31tMsXI4g0gcStDrn08fFkY6hukNu89ey0JQ33ve9O9M9kTMNSfuSFgc/RhLIb6U74nbHOvJ2Oon1v/wLZlcSqG+n+OBnYV+YUY6nV/R9tdu1WFoZ59Zb7dv//1RIu7eRXard5VSbT4QUNbuwnBuRju8e04bDtfOxZDPOjold2T/MMxxN/x3tgrnx2HIS7J7rdviXEBhvhh16J9/CcqiRbHFe8AGrg/bhUCAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="123.161" CutPathPosition="598.579" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="505" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGMUYGJgkI2u27f8Z80+BhTQYC/3xHrf/OIcZPEGkPgKXf59ZTkpGOp7AjbvZQiOwVDPf9Jv78K/kRjql20WsQlPDsdQz6I0z3blx2gM9fXHHtimS8djqL/6TtXu/ccMDPWWXDF2181LMNSbR9bZ+cjXYqjHJc7I0GC38noZ0eKGvxztChemY4hvmXbQ9vqMMAxxl8vvdm95EoAhHmB0ay+/RASGeExkwL7F+lkY4v/+1+9zOYDpHlziuOIdAHrX/04VAgAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="611.054" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="505" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAsCG6bl9BYNk+BhTQYF//1Hrf/oupyOINIPG02UL7drfFYaqfvmUvx9tQDHGWZbw2jB8DMMTfqD22nbg+AsP8//uF7NSvYZo/OTTa7lBcLob6W5F1dvcyMN2PS5yRocHugHwB0eINX5zstpknYojfnrLf1pkB019Nyjd3v7D1wnDn8YYrey+KB2KoD9gfuO/362QMcSaGhn2LxTDdg0scVzwCAAuz/r7lAQAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="111.659" CutPathPosition="610.231" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="505" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGN8wMjAEBFVt2/H8vx9DCigwV7uqfW+Cr14ZPEGkHhTheQ+AYtIDPUznm7bu3qGP4Z44CFl6yhZLwxz9n++abs8JxBD/aWFMXZvGNIx1CtF1dlpbMR0Jy5xRoYGu/70TKLF1390ttu4PwpDXLfqmO2RbZ4Y7jl9WW7Po1fOGOINx57u5TjkjSGe8N5yn4JvBIb5K8tD97U6xmFz577eJKzuxyqOKx4Bpi0xx+UBAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="113.319" CutPathPosition="609.109" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="353.198578" Y="-281.153442" Z="0" Rx="0" Ry="0" Rz="164.4949" />
+            <CTarget Index="2" CurveAxis="89.512" X="266.5979" Y="-258.511475" Z="0" Rx="0" Ry="0" Rz="164.9945" />
+            <CTarget Index="3" CurveAxis="135.855" X="221.761688" Y="-246.78894" Z="0" Rx="0" Ry="0" Rz="166.1449" />
+            <CTarget Index="4" CurveAxis="182.398" X="176.376511" Y="-236.588287" Z="0" Rx="0" Ry="0" Rz="168.4205" />
+            <CTarget Index="5" CurveAxis="221.283" X="138.166748" Y="-229.381958" Z="0" Rx="0" Ry="0" Rz="170.0598" />
+            <CTarget Index="6" CurveAxis="254.881" X="105.07769" Y="-223.600418" Z="0" Rx="0" Ry="0" Rz="172.5112" />
+            <CTarget Index="7" CurveAxis="288.521" X="71.58359" Y="-220.756912" Z="0" Rx="0" Ry="0" Rz="175.2856" />
+            <CTarget Index="8" CurveAxis="323.117" X="37.06124" Y="-218.527664" Z="0" Rx="0" Ry="0" Rz="177.306" />
+            <CTarget Index="9" CurveAxis="356.084" X="4.158185" Y="-216.539017" Z="0" Rx="0" Ry="0" Rz="179.3481" />
+            <CTarget Index="10" CurveAxis="389.646" X="-29.34602" Y="-217.903534" Z="0" Rx="0" Ry="0" Rz="-178.0012" />
+            <CTarget Index="11" CurveAxis="425.893" X="-65.52483" Y="-220.104691" Z="0" Rx="0" Ry="0" Rz="-175.5707" />
+            <CTarget Index="12" CurveAxis="462.235" X="-101.739967" Y="-222.9704" Z="0" Rx="0" Ry="0" Rz="-172.8629" />
+            <CTarget Index="13" CurveAxis="495.892" X="-134.92627" Y="-228.56459" Z="0" Rx="0" Ry="0" Rz="-170.5088" />
+            <CTarget Index="14" CurveAxis="534.779" X="-173.20787" Y="-235.379959" Z="0" Rx="0" Ry="0" Rz="-168.6375" />
+            <CTarget Index="15" CurveAxis="573.965" X="-211.469315" Y="-243.764572" Z="0" Rx="0" Ry="0" Rz="-166.2948" />
+            <CTarget Index="16" CurveAxis="615.472" X="-251.589783" Y="-254.401566" Z="0" Rx="0" Ry="0" Rz="-164.8367" />
+            <CTarget Index="17" CurveAxis="685.506" X="-319.285034" Y="-272.3494" Z="0" Rx="0" Ry="0" Rz="-163.9914" />
+          </Targets>
+          <DataContour>H4sIAAAAAAAEAGNUYGFgYGRosOtPz9zHgAIa7IUeOdsd3ROFIT4n5pjt9a2eyOINIPFbr6X33H/ujCGulvN079Zd3hjiqxdY7OsTjMAwf1pR6D5DhzgMcaA79/UmYbozIqpu347l+RjiTED1i8UKMMQ3RNftKwgswxD/979+n8sBTHFZoPrlP2swxA+7Fu3jP1GJIb5pAcjOBgzxZ68j9jFux1Qf6BiOVf3BZpt95l8qMcJtSajVPsYWTPEADkt0c8Dip76J73s4DdPeSffF9v0H+hnDv6mP9n7Hon6T2YO92NQ/Y962915RLYa9CZKvdu+6W46hfks+p82xn+UY6n8nXbOVUq3HEPfaet8WzV6wuB3HI9veuZjhYGcsYodN/eV0UbusPkx/Rc8xs/uHxV9Hbprb7ZmAqT7ndyi6erD5mQvC7RK2Y7qHfWU+VvVuXoV2q3dhqjePrLPzka/FsBeUT1dex0yft4Dq72VgioPUH5DHTP9KUXV2Ghsx8wuucgAAbyUqKSUEAAA=</DataContour>
+          <CenterLine>H4sIAAAAAAAEAGM8wMDAcGFTjV3olsZ9DAjQAET2PQ12dqfVS5DFQVL2Hh7HbM2OJWOIf7t8bPeK/bEY4lLal/fua0zBEF+3xWvfXeEyDHt/Vsbu03xThaG+YFvNPrlZjRjiAMxaWbjFAAAA</CenterLine>
+        </CReducedTape>
+      </Tapes>
+    </CReducedPly>
+  </Plys>
+</CReducedProgram>

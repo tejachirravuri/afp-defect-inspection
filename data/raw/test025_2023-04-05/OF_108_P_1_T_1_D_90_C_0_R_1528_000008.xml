@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<CReducedProgram xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plys>
+    <CReducedPly NumPly="1">
+      <Tapes>
+        <CReducedTape IP="1" NumTape="1" MaxSegCount="1" MaxSpeed="0.5" Length="385">
+          <Fibers>
+            <CReducedFiber Length="200" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zOn7GFBAg/2ZM2f2ook34BCHq/dpySVGHGwOyF5s6vGJY7MXAHHjaHvFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVufltx9DCigwf7MmTN70cQbcIjD1b9kKSFGHGwOyF5s6vGJY7MXAE0VXqbFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGduXLCX7GFBAg/2ZM2f2ook34BCHq29vrSJGHGwOyF5s6vGJY7MXAOo860DFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv21qp9DCigwf7MmTN70cQbcIjD1Qs1NxAjDjYHZC829VjE4eqxuQcAmyLFFcUAAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVuh5oZ9DCigwf7MmTN70cQbcIjD1ScebiZGHGwOyF5s6vGJY7MXAGtL1HPFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdvEw837GFBAg/2ZM2f2ook34BCHq1/P3E6MONgckL3Y1OMTx2YvAIwp/zLFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zO37GFBAg/2ZM2f2ook34BCHq//n3EWMONgckL3Y1OMTx2YvAM2+4CfFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdt/zl37GFBAg/2ZM2f2ook34BCHq/dt6SVGHGwOyF5s6vGJY7MXAMntJEXFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="-210" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="0" />
+            <CTarget Index="2" CurveAxis="100" X="-109.999992" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="0" />
+            <CTarget Index="3" CurveAxis="200" X="-9.99999" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="0" />
+            <CTarget Index="4" CurveAxis="300" X="90.00001" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="0" />
+            <CTarget Index="5" CurveAxis="385" X="175.000031" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="0" />
+          </Targets>
+          <DataContour />
+          <CenterLine />
+        </CReducedTape>
+        <CReducedTape IP="2" NumTape="2" MaxSegCount="1" MaxSpeed="0.5" Length="385">
+          <Fibers>
+            <CReducedFiber Length="200" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdt/zl37GFBAg/2ZM2f2ook34BCHq/dt6SVGHGwOyF5s6vGJY7MXAMntJEXFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zO37GFBAg/2ZM2f2ook34BCHq//n3EWMONgckL3Y1OMTx2YvAM2+4CfFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdvEw837GFBAg/2ZM2f2ook34BCHq1/P3E6MONgckL3Y1OMTx2YvAIwp/zLFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVuh5oZ9DCigwf7MmTN70cQbcIjD1ScebiZGHGwOyF5s6vGJY7MXAGtL1HPFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv21qp9DCigwf7MmTN70cQbcIjD1Qs1NxAjDjYHZC829VjE4eqxuQcAmyLFFcUAAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGduXLCX7GFBAg/2ZM2f2ook34BCHq29vrSJGHGwOyF5s6vGJY7MXAOo860DFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVufltx9DCigwf7MmTN70cQbcIjD1b9kKSFGHGwOyF5s6vGJY7MXAE0VXqbFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zOn7GFBAg/2ZM2f2ook34BCHq/dpySVGHGwOyF5s6vGJY7MXAHHjaHvFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="110" CutPathPosition="310" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="210.000031" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="180" />
+            <CTarget Index="2" CurveAxis="100" X="110.000023" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="180" />
+            <CTarget Index="3" CurveAxis="200" X="10.00002" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="180" />
+            <CTarget Index="4" CurveAxis="300" X="-89.9999847" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="180" />
+            <CTarget Index="5" CurveAxis="385" X="-175" Y="-250.999985" Z="0" Rx="0" Ry="0" Rz="180" />
+          </Targets>
+          <DataContour />
+          <CenterLine />
+        </CReducedTape>
+        <CReducedTape IP="3" NumTape="3" MaxSegCount="1" MaxSpeed="0.5" Length="385">
+          <Fibers>
+            <CReducedFiber Length="200" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zOn7GFBAg/2ZM2f2ook34BCHq/dpySVGHGwOyF5s6vGJY7MXAHHjaHvFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVufltx9DCigwf7MmTN70cQbcIjD1b9kKSFGHGwOyF5s6vGJY7MXAE0VXqbFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGduXLCX7GFBAg/2ZM2f2ook34BCHq29vrSJGHGwOyF5s6vGJY7MXAOo860DFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv21qp9DCigwf7MmTN70cQbcIjD1Qs1NxAjDjYHZC829VjE4eqxuQcAmyLFFcUAAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVuh5oZ9DCigwf7MmTN70cQbcIjD1ScebiZGHGwOyF5s6vGJY7MXAGtL1HPFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdvEw837GFBAg/2ZM2f2ook34BCHq1/P3E6MONgckL3Y1OMTx2YvAIwp/zLFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zO37GFBAg/2ZM2f2ook34BCHq//n3EWMONgckL3Y1OMTx2YvAM2+4CfFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdt/zl37GFBAg/2ZM2f2ook34BCHq/dt6SVGHGwOyF5s6vGJY7MXAMntJEXFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="-205.734573" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="0" />
+            <CTarget Index="2" CurveAxis="100" X="-105.734566" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="0" />
+            <CTarget Index="3" CurveAxis="200" X="-5.734563" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="0" />
+            <CTarget Index="4" CurveAxis="300" X="94.2654343" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="0" />
+            <CTarget Index="5" CurveAxis="385" X="179.265457" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="0" />
+          </Targets>
+          <DataContour />
+          <CenterLine />
+        </CReducedTape>
+        <CReducedTape IP="4" NumTape="4" MaxSegCount="1" MaxSpeed="0.5" Length="385">
+          <Fibers>
+            <CReducedFiber Length="200" NumFiber="1" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdt/zl37GFBAg/2ZM2f2ook34BCHq/dt6SVGHGwOyF5s6vGJY7MXAMntJEXFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="2" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zO37GFBAg/2ZM2f2ook34BCHq//n3EWMONgckL3Y1OMTx2YvAM2+4CfFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="3" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdvEw837GFBAg/2ZM2f2ook34BCHq1/P3E6MONgckL3Y1OMTx2YvAIwp/zLFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="4" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVuh5oZ9DCigwf7MmTN70cQbcIjD1ScebiZGHGwOyF5s6vGJY7MXAGtL1HPFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="5" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv21qp9DCigwf7MmTN70cQbcIjD1Qs1NxAjDjYHZC829VjE4eqxuQcAmyLFFcUAAAA=</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="6" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGduXLCX7GFBAg/2ZM2f2ook34BCHq29vrSJGHGwOyF5s6vGJY7MXAOo860DFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="7" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGVufltx9DCigwf7MmTN70cQbcIjD1b9kKSFGHGwOyF5s6vGJY7MXAE0VXqbFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+            <CReducedFiber Length="200" NumFiber="8" SegCount="1">
+              <DataContour>H4sIAAAAAAAEAGM8wMDAcOHMGdv1zOn7GFBAg/2ZM2f2ook34BCHq/dpySVGHGwOyF5s6vGJY7MXAHHjaHvFAAAA</DataContour>
+              <Segments>
+                <CReducedFiberSegment AddPathPosition="105.724" CutPathPosition="305.724" />
+              </Segments>
+            </CReducedFiber>
+          </Fibers>
+          <Targets>
+            <CTarget Index="1" CurveAxis="0" X="205.734589" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="180" />
+            <CTarget Index="2" CurveAxis="100" X="105.7346" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="180" />
+            <CTarget Index="3" CurveAxis="200" X="5.734593" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="180" />
+            <CTarget Index="4" CurveAxis="300" X="-94.26541" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="180" />
+            <CTarget Index="5" CurveAxis="385" X="-179.265427" Y="-250.999985" Z="0.260885" Rx="0" Ry="-7" Rz="180" />
+          </Targets>
+          <DataContour />
+          <CenterLine />
+        </CReducedTape>
+      </Tapes>
+    </CReducedPly>
+  </Plys>
+</CReducedProgram>
